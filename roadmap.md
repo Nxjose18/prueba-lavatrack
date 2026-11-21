@@ -1,0 +1,10 @@
+- [x] Elegir cuatro pantallas operativas representativas: recepción, control de prendas, delivery y despacho.
+- [x] Construir las pantallas solo para pruebas de usuario con pedidos ficticios.
+- [x] Agregar filtros acordes a cada campo y validar formatos de documento y celular.
+- [x] Convertir todos los flujos por pasos en ventanas flotantes animadas.
+- [x] Reorganizar las listas con agrupaciones, prioridad por urgencia y jerarquía visual.
+- [x] Ejecutar el focus group y registrar hallazgos (ver analisis_focus_group.md).
+- [x] Agregar inicio de sesión con roles y unir delivery y despacho en un solo panel de entregas.
+- [x] Simular cobros con QR de Yape y Plin, POS de tarjeta, vuelto en efectivo y transferencia.
+- [x] Tablero de etapas con planchado, movimiento en lote, arrastrar y soltar, y deshacer.
+- [ ] Segunda ronda de pruebas con las preguntas de la sección 5 del análisis.
